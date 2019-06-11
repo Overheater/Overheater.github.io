@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "./assets/Splash/HomepageHoundstooth.png"
 excerpt: "Welcome to the project site of Ian Pougher,a repository of Project updates, Blog posts and Music reccomendations "
 ---
-
+ 
 Welcome to the project site of Ian Pougher, any projects created will show up here, as well as blog posts and music reccomendations.                 <br> {% include button.html text="Github Account" icon="github" link="https://github.com/Overheater" color="#0366d6" %}
 
 ## Blogs
