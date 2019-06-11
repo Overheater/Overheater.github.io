@@ -4,7 +4,7 @@ category: Project
 feature_image: "/assets/TolChat.PNG"
 
 ---
-A basic proof of concept that uses hamming(7,4)for forward error correction
+A basic proof of concept that uses hamming(7,4) for forward error correction
 <!-- more -->
 Looking into fault tolerance, I found that most forward error correction schemes are incredibly complicated to implement, with many of the scholarly papers outlining them taking around 50 pages to explain the basics.
 As such many libraries are available to easily implement systems like [turbo code][[turbocodepage]] them into existing projects. While this is all well and good for productivity, I still wanted to implement some form of error correction code, so I started with one of the first, the [Hamming(7,4)][Hamming] implementation.
