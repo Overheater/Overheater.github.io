@@ -18,8 +18,9 @@ if any of these three bools are true, it maps to a binary value, which is positi
 [FaultyNetwork]: https://github.com/jak103/FaultyNetwork
 [Hamming]:https://en.wikipedia.org/wiki/Hamming(7,4)
 [turbocodepage]: https://en.wikipedia.org/wiki/Turbo_code
+[github]:https://github.com/Overheater/WinFormsFaultTolNet
 
 <br>
 Language:C# <br>
 Libraries/Frameworks of note used: Winforms<br>
-Github link: https://github.com/Overheater/WinFormsFaultTolNet
+Github link: [here][github]
