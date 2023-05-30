@@ -1,0 +1,19 @@
+baseurl = "https://IanPougher.com"
+title = "Ian Pougher"
+author = "Ian Pougher"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+
+[params]
+    brand = "Ian Pougher"
+    description = "Ian Pougher's Blog"
+    headshotimg = "img/Headshot.png"
+    headshotalt = "Ian Pougher's Profile Picture"
+    github = "https://github.com/Overheater"
+    spotify = "https://open.spotify.com/user/121217442?si=26849e1ad02042eb"
+    linkedin  = "https://www.linkedin.com/in/ian-pougher-023a15104/"   
+[markup]
+  [markup.highlight]
+    style = "igor"
