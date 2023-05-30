@@ -4,7 +4,7 @@ author = "Ian Pougher"
 canonifyurls = true
 paginate = 3
 theme = "aether"
-
+enableRobotsTXT = true
 
 [params]
     brand = "Ian Pougher"
